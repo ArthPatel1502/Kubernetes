@@ -343,14 +343,6 @@ Kubernetes-Zero-to-Hero/
 
 # 📖 References
 
-This repository is based on my hands-on learning, official Kubernetes documentation, and community resources.
-
-A significant part of my initial understanding of Kops and Kubernetes cluster creation came from:
-
-* **Abhishek Veeramalla** — *Day-32 | How to Manage Hundreds of Kubernetes Clusters??? | KOPS*
-
-I highly recommend watching the original video to understand the complete setup process before following the implementation in this repository.
-
 Official Documentation:
 
 * https://kubernetes.io/docs/
