@@ -300,24 +300,6 @@ Manage Applications
 
 ---
 
-# 📂 Repository Structure
-
-```
-Kubernetes-Zero-to-Hero/
-│
-├── 01-Kubernetes-Basics/
-├── 02-Kubernetes-Architecture/
-├── 03-Kops-Installation/
-├── 04-kubectl/
-├── 05-YAML-Manifests/
-├── 06-Networking/
-├── 07-Projects/
-├── 08-Troubleshooting/
-└── README.md
-```
-
----
-
 # 💡 Topics Covered
 
 * Kubernetes Basics
