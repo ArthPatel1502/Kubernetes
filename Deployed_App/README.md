@@ -386,7 +386,6 @@ kubernetes-minikube-basics
 - Kubernetes Official Documentation
 - Minikube Documentation
 - kubectl Documentation
-- Abhishek Veeramalla's Kubernetes Zero to Hero series
 
 ---
 
