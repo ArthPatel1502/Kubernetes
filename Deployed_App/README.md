@@ -331,6 +331,29 @@ kubectl cluster-info
 
 ---
 
+## 📄 Creating My First Kubernetes Pod
+
+The following YAML file creates a simple **Nginx Pod** in Kubernetes.
+
+### `nginx-pod.yaml`
+
+```yaml
+apiVersion: v1
+kind: Pod
+
+metadata:
+  name: nginx
+
+spec:
+  containers:
+    - name: nginx
+      image: nginx:1.14.2
+      ports:
+        - containerPort: 80
+```
+
+---
+
 # Learning Outcomes
 
 During this project I learned:
